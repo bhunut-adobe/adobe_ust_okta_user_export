@@ -38,6 +38,7 @@ def format_group_members_json(obj):
         members.append(
             {
                 'id': member.id,
+                'status': member.status,
                 'profile': member.profile.__dict__
             })
     return json.dumps(members, sort_keys=True,
