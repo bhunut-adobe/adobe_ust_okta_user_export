@@ -1,4 +1,4 @@
-# adobe_ust_okta_user_export
+# Adobe User Sync Tool Okta User Export
 Exporting Okta Users using Adobe User Sync Tool configuration files. Use for troubleshooting purposes
 
 
